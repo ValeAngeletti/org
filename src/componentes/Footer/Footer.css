@@ -1,0 +1,21 @@
+.footer{
+    width: 100%;
+    display: flex;
+    align-items: center;
+    padding: 5%;
+    box-sizing: border-box;
+    background-size: cover;
+    background-position: center;
+    justify-content: space-between;
+    color: #fff;
+    font-family: 'Montserrat', sans-serif;
+    font-size:1.25rem;
+}
+
+.redes{
+    margin-right: 0px 2.5rem;
+}
+
+.footer img{
+    padding: 0 2.5rem;
+}
